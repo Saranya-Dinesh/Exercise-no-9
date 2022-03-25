@@ -3,13 +3,6 @@ package org.kiot.bankmanagement;
 import org.kiot.bank.Bank;
 import org.kiot.invalidamountexception.InvalidAmountException;
 import org.kiot.insufficientfundsexception.InsufficientFundsException;
-
-/**
- *	BankManagement class retrieves account holder details
- *	@version 04/03/2022
- *  @author praveen kandhan
- */
-
 public class BankManagement {
 
 	public static void main(String[] args) throws InsufficientFundsException,
