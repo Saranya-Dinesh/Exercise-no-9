@@ -1,11 +1,4 @@
 package org.kiot.bank;
-
-/**
- *	Bank class retrieves account holder details
- *	@version 04/03/2022
- *  @author praveen kandhan
- */
-
 public class Bank {
 	private long accountNumber, initialBalance, amounttoDeposit, 
 		amounttoWithdraw;
